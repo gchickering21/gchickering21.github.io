@@ -17,7 +17,7 @@
   --accent-soft: rgba(43, 67, 104, .10);
   --sidebar-w: 300px;
   --radius: 10px;
-  --maxw: 1040px;
+  --maxw: 1000px;
   --serif: "Iowan Old Style", "Palatino Linotype", Palatino, Georgia, Cambria, "Times New Roman", serif;
   --sans: "Inter", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
 }
